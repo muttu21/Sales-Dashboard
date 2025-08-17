@@ -16,3 +16,4 @@ The goal of this project is to show how data-driven decisions can be supported w
 ✅ Dynamic filtering with slicers (Region, Time, Product)
 ✅ Drill-through analysis for detailed insights
 ✅ Interactive dashboard design
+SNAPSHOT:https://github.com/muttu21/Sales-Dashboard/blob/main/Sales%20Dashboard%20Overview.png
